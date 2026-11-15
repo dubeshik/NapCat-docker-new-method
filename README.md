@@ -4,6 +4,8 @@
 
 _上游已于 2026-11-12 自行清空，本仓库保留它最后一次完整状态_
 
+本README.md fork来自https://github.com/kizunerwe/NapCatQQ
+
 </div>
 
 ---
