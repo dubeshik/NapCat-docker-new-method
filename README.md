@@ -30,6 +30,13 @@ _上游已于 2026-11-12 自行清空，本仓库保留它最后一次完整状�
 - 范围只有**源码**：release 二进制（全量约 42GB）与 issue / PR 讨论不在内
 - 最后一个版本是 **v4.18.42**（2026-10-30），tag 仍在，可以 checkout
 
+##  本仓库添加内容
+
+简单操作后成功再次部署成功的镜像源： [可用的镜像加速]（docker-mirrors.txt）
+使用docker部署NapCatQQ的操作流程：[指南]（napcat-setup-guide.md）
+
+仅个人单次测试成功案例，能否成功不敢保证，希望后来者可以接替我补全这个空挡
+
 ## 🕯️ 都走了
 
 2026-11-09，同样做 NTQQ 协议层的 [SnowLuma](https://github.com/SnowLuma/SnowLuma) 收到腾讯律师函，作者当天转为 private，留下一句「感谢大家一路的陪伴，再见！」
