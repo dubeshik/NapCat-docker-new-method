@@ -32,8 +32,8 @@ _上游已于 2026-11-12 自行清空，本仓库保留它最后一次完整状�
 
 ##  本仓库添加内容
 
-简单操作后成功再次部署成功的镜像源： [可用的镜像加速]（docker-mirrors.txt）
-使用docker部署NapCatQQ的操作流程：[指南]（napcat-setup-guide.md）
+简单操作后成功再次部署成功的镜像源： [可用的镜像加速](docker-mirrors.txt)
+使用docker部署NapCatQQ的操作流程：[指南](napcat-setup-guide.md)
 
 仅个人单次测试成功案例，能否成功不敢保证，希望后来者可以接替我补全这个空挡
 
